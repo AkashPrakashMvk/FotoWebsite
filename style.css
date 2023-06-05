@@ -1,0 +1,60 @@
+body{
+    margin:0%;
+    padding: 0%;
+}
+
+.topper{
+    background-color:rgba(0, 0, 0, 0.9);
+    width: 100%;
+    height: 200px;
+    
+   
+}
+
+.Header{
+    margin:0%;
+    padding-top: 2%;
+    padding-left: 6%;
+    color:wheat;
+    font-size: 90px;
+    
+}
+.bodypart{
+ width: 50%;
+
+ margin-top:15%;
+ margin-left: 50%;
+ padding: 18%;
+ padding-left: 30%;
+
+ border: 1px solid black;
+ 
+    
+}
+.bodypartmain{
+    width: 30%; 
+   
+}
+.editorbody{
+    padding-left: 30px;
+}
+.bodyparttable{
+    border-spacing: 30px;
+    
+}
+
+.bodyparttableprogress{
+    float: right;
+margin-right: -20%;
+margin-top: 0%;
+}
+.UpperText{
+
+   
+    padding-left: 10%;
+
+}
+
+
+
+
