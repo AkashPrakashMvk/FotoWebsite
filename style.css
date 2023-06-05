@@ -1,7 +1,9 @@
+
 body{
     margin:0%;
     padding: 0%;
     background-image: url("images/bg.jpg");
+    border: none;
     
 }
 
@@ -22,7 +24,7 @@ body{
     
 }
 .bodypart{
-   
+  box-shadow: 10px 10px rgba(0, 0, 0, 0.7);;
  background-image: url("images/bgw.jpg");
  width: 50%;
 
@@ -31,9 +33,8 @@ body{
  padding: 18%;
  padding-left: 30%;
  border-radius: 30px;
- border: 1px solid rgb(255, 255, 255);
- color:  rgba(0, 0, 0, 0.9);;
- 
+ color:  rgba(0, 0, 0, 0.9);
+ border: none;
     
 }
 .bodypartmain{
@@ -59,9 +60,10 @@ margin-top: 0%;
 
 }
 .bodypartsubmit{
+    border: none;
     border-radius: 50px;
     background-color: #fff;
-    border: 1px solid black;
+    
     padding: 0%;
     /* text-align: center; */
     
@@ -90,3 +92,6 @@ margin-top: 0%;
 
 
 
+.slider{
+    color: rgba(0, 0, 0, 0.9);
+}
