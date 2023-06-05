@@ -24,20 +24,11 @@ body{
     
 }
 .bodypart{
-  box-shadow: 10px 10px rgba(0, 0, 0, 0.7);;
- background-image: url("images/bgw.jpg");
- width: 50%;
-
- margin-top:10%;
- margin-left: 10%;
- padding: 18%;
- padding-left: 30%;
- border-radius: 30px;
- color:  rgba(0, 0, 0, 0.9);
- border: none;
+width: 100%;
     
 }
 .bodypartmain{
+    float: left;
     width: 30%; 
    
 }
@@ -94,4 +85,27 @@ margin-top: 0%;
 
 .slider{
     color: rgba(0, 0, 0, 0.9);
+}
+
+.bodypartform{
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.7);;
+    background-image: url("images/bgw.jpg");
+    width: 50%;
+   
+    margin-top:10%;
+    margin-left: 10%;
+    padding: 18%;
+    padding-left: 30%;
+    border-radius: 30px;
+    color:  rgba(0, 0, 0, 0.9);
+    border: none;
+    
+}
+.leftbodypart{
+    width: 50%;
+}
+.leftimg{
+    margin-left: 10%;
+    margin-top: 5%;
+    border-radius: 39px;
 }
